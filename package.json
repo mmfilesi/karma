@@ -1,0 +1,24 @@
+{
+  "name": "karma-lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "karma": "^0.13.21",
+    "karma-chrome-launcher": "^0.2.2",
+    "karma-coverage": "^0.5.3",
+    "karma-eslint": "^2.0.1",
+    "karma-firefox-launcher": "^0.1.7",
+    "karma-html-reporter": "^0.2.7",
+    "karma-ie-launcher": "^0.2.0",
+    "karma-jasmine": "^0.3.7",
+    "karma-phantomjs-launcher": "^1.0.0",
+    "karma-safari-launcher": "^0.1.1"
+  }
+}
