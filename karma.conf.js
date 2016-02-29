@@ -40,25 +40,3 @@ module.exports = function(config) {
 
   });
 };
-
-/*
-progress es para que se vea por consola, pero podemos añadir más.
-
-logLevel
-	lOG_INFO, el más bajo <--- NO LOG_DEBUG
-
-	browser para los arrays
-
-	captureTimeout: los ficheros no pueden tardar más de tanti
-
-	reportsSlowerThan: lo que tarda un reporte. 500 es más que suficiente.
-
-
-
-*/
-
-// EXPLICAR LOS WILDCARD Y LOS EXCLUDE
-
-// COVERAGE
-
-// https://gist.github.com/fatihacet/c54b6b3e542aea11da86
